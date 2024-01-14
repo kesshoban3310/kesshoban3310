@@ -1,5 +1,6 @@
-### Hi there 👋
+### Introduce to Myself
 
+A sophomore student from NTUT. Studying Computer Science.
 <!--
 **kesshoban3310/kesshoban3310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
