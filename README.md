@@ -10,6 +10,8 @@
 高中時曾經是競程選手，大學放推中
 
 嘗試放推這裡直到我想要認真更新為止
+
+[!Personal Page](https://kesshoban3310.github.io/)
 ## Github Status
 
 ![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kesshoban3310)
