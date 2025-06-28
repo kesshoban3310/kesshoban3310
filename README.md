@@ -1,8 +1,8 @@
 ## Introduce to Myself
 
-##### A junior student from NTUT. Studying Computer Science.
+##### A senior student from NTUT. Studying Computer Science.
 
-##### 國立臺北科技大學資訊工程學系，大三
+##### 國立臺北科技大學資訊工程學系，大四
 
 
 ## 個人介紹
