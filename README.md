@@ -12,7 +12,3 @@
 嘗試放推這裡直到我想要認真更新為止
 
 [Personal Page](https://kesshoban3310.github.io/)
-## Github Status
-
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kesshoban3310)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kesshoban3310&count_private=true)
